@@ -56,12 +56,15 @@ Transversales:
 INSTALLATION
 ------------
 Prérequis: Java JDK 8+
+**Apache Ant** 1.9+
 
 Compilation:
-javac -d build src/*.java
+javac -d build src/*/*.java
+ant compile
 
 Exécution:
-java -cp build Main
+java -cp build main.Mainant 
+ant run
 
 ALGORITHME HASHLIFE
 -------------------
