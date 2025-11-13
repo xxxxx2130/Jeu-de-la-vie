@@ -25,17 +25,16 @@ CONTRIBUTIONS
 -------------
 Équipe de 3 développeurs:
 
-MOI (Lamia):
+
 - Modélisation UML complète du système
 - Implémentation de la logique métier et règles du jeu
-- Conception des diagrammes de classes 
+- Conception des diagrammes de classes
+- Le Contrôleur Principal / Orchestrateur 
 
-Personne 2:
 - Développement de l'interface graphique Swing
 - Gestion des événements utilisateur
 - Rendu visuel de la grille
 
-Personne 3:
 - Implémentation de l'algorithme HashLife
 - Optimisation du calcul de voisinage
 - Développement des tests unitaires
